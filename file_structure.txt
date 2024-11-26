@@ -1,0 +1,39 @@
+.
+  |-target
+  |  |-test-classes
+  |  |  |-com
+  |  |  |  |-example
+  |  |  |  |  |-trelloclone
+  |  |-classes
+  |  |  |-com
+  |  |  |  |-example
+  |  |  |  |  |-trelloclone
+  |  |  |  |  |  |-repository
+  |  |  |  |  |  |-memento
+  |  |  |  |  |  |-controller
+  |  |  |  |  |  |-model
+  |  |  |  |  |  |  |-state
+  |  |  |  |  |  |-service
+  |-.mvn
+  |  |-wrapper
+  |-.idea
+  |-src
+  |  |-test
+  |  |  |-java
+  |  |  |  |-com
+  |  |  |  |  |-example
+  |  |  |  |  |  |-trelloclone
+  |  |-main
+  |  |  |-resources
+  |  |  |  |-static
+  |  |  |  |-templates
+  |  |  |-java
+  |  |  |  |-com
+  |  |  |  |  |-example
+  |  |  |  |  |  |-trelloclone
+  |  |  |  |  |  |  |-repository
+  |  |  |  |  |  |  |-memento
+  |  |  |  |  |  |  |-controller
+  |  |  |  |  |  |  |-model
+  |  |  |  |  |  |  |  |-state
+  |  |  |  |  |  |  |-service
